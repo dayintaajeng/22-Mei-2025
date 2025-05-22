@@ -1,4 +1,4 @@
 import streamlit as st
 
 st.title("Hello, World!")
-st.write("Ini adalah aplikasi Streamlit sederhana dari GitHub.")
+st.write("Halloooo ini percobaan datmin hari iniiii hehe")
